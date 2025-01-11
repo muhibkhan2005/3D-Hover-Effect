@@ -10,3 +10,10 @@ This project demonstrates a 3D layered hover effect using HTML, CSS, and JavaScr
 - HTML
 - CSS
 - JavaScript
+
+## How to Run:
+1. Clone this repository.
+2. Open the `index.html` file in a web browser.
+
+## Author:
+- [Muhib ullah](https://www.linkedin.com/in/muhib-ullah-8196b029a/)
